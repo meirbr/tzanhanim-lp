@@ -1,0 +1,496 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Heroslidesection {
+  display: flex;
+  align-items: center;
+  background-image: url("http://up419.siz.co.il/up3/gynum2woj1yy.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+  height: 75vh;
+  min-height: 80vh;
+  padding: 3vh;
+  background-position: center;
+  direction: rtl;
+  margin: 0;
+  text-align: justify;
+  text-align-last: center;
+  color: rgba(255, 250, 250, 0.7);
+}
+
+.about-section {
+  direction: rtl;
+  position: flex;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  padding: auto;
+  background: white;
+}
+
+.on-pc-display-block {
+  display: block;
+}
+
+.on-pc-display-inline {
+  display: inline;
+}
+
+.align-center {
+  margin: auto;
+  align-items: center;
+  text-align: justify;
+  text-align-last: center;
+  align-content: center;
+  align-self: center;
+}
+
+.tash-section {
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  text-align-last: center;
+  background: #2a2941;
+  margin-top: auto;
+  color: #fceeed;
+}
+
+.rtl {
+  text-align: justify;
+  text-align-last: right;
+}
+
+.on-md-show {
+  display: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 24px;
+  }
+  .w-100 {
+    all: unset;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  scroll-behavior: smooth;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/*
+-------------------
+-------------------
+AnimatedPics component
+-------------------
+-------------------
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: #151515;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+*/
+.AnimatedPics-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(255, 250, 250, 0.7);
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+/*
+.AnimatedPics-next,
+.AnimatedPics-prev {
+  top: calc(50% - 20px);
+  position: absolute;
+  background: white;
+  border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+  z-index: 2;
+}
+
+.AnimatedPics-next {
+  right: 10px;
+}
+
+.AnimatedPics-prev {
+  left: 10px;
+  transform: scale(-1);
+}
+*/
+AnimatedPics-img {
+  position: absolute;
+  max-width: 40vw;
+}
+
+.AnimatedPics-refresh {
+  padding: 10px;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  width: 40px;
+  height: 40px;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+/*
+-------------------
+-------------------
+Accordion component
+-------------------
+-------------------
+
+body {
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+*/
+.accordion-container {
+  width: 320px;
+  padding: 20px;
+}
+
+.accordion-refresh {
+  padding: 10px;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  width: 20px;
+  height: 20px;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.accordion-content-placeholder {
+  padding: 20px;
+  transform-origin: top center;
+}
+
+accordion-header {
+  background: #0055ff;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+.accordion-word {
+  height: 18px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  background: #0055ff;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.accordion-paragraph {
+  margin-bottom: 20px;
+}
+
+accordion-section {
+  overflow: hidden;
+}
+
+@media (max-width: 600px) {
+  .accordion-content-placeholder {
+    padding-left: 20px;
+  }
+
+  .Heroslidesection {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+
+  .on-md-disappear {
+    display: none;
+  }
+
+  .navbar {
+    background-color: transparent;
+  }
+
+  .bg-red {
+    background-color: rgba(76, 175, 80, 0);
+    max-height: 5px;
+  }
+
+  .on-md-show {
+    display: block;
+  }
+
+  .on-pc-display-block {
+    display: none;
+  }
+
+  .on-pc-display-inline {
+    display: none;
+  }
+
+  .accordion-header .accordion-word {
+    height: 30px;
+  }
+
+  .accordion-word {
+    height: 14px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+  }
+
+  .accordion-paragraph {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .d-md-none {
+    display: none !important;
+  }
+  .d-md-inline {
+    display: inline !important;
+  }
+  .d-md-inline-block {
+    display: inline-block !important;
+  }
+  .d-md-block {
+    display: block !important;
+  }
+  .d-md-block-new {
+    display: block;
+  }
+  .d-md-table {
+    display: table !important;
+  }
+  .d-md-table-row {
+    display: table-row !important;
+  }
+  .d-md-table-cell {
+    display: table-cell !important;
+  }
+  .d-md-flex {
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+  .d-md-inline-flex {
+    display: -ms-inline-flexbox !important;
+    display: inline-flex !important;
+  }
+}
+
+/*
+-----------------
+-----------------
+React Player
+-----------------
+-----------------
+*/
+/* Root slider component */
+.slider {
+  position: relative;
+}
+
+.slider.is-horizontal {
+  width: 200px;
+  height: 8px;
+}
+
+.slider.is-vertical {
+  width: 8px;
+  height: 200px;
+}
+
+/* Bars – can be progress. value, buffer or whatever */
+.bar {
+  position: absolute;
+  border-radius: 50%;
+}
+
+.bar.is-background {
+  background: #878c88;
+}
+
+.bar.is-value {
+  background: #72d687;
+}
+
+.bar.is-horizontal {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  /* width: set dynamically in js */
+  height: 100%;
+}
+
+.bar.is-vertical {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  /* height: set dynamically in js */
+}
+
+.bg-red {
+  background-color: #771913;
+  color: #fceeed;
+  font-family: Heebo;
+  height: 70px;
+}
+
+/* Slider handle */
+.handle {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background: "green";
+  border-radius: 50%;
+  transform: scale(1);
+  transition: transform 0.2s;
+}
+
+.handle:hover {
+  transform: scale(1.3);
+}
+
+.handle.is-horizontal {
+  top: 0;
+  /* left: set dynamically in js to x %; */
+  margin-top: -4px;
+  margin-left: -8px;
+}
+
+.handle.is-vertical {
+  left: 0;
+  /* bottom: set dynamically in js to x %; */
+  margin-bottom: -8px;
+  margin-left: -4px;
+}
+
+.player-wrapper {
+  width: auto; // Reset width
+  height: auto; // Reset height
+}
+.react-player {
+  padding-top: 56.25%; // Percentage ratio for 16:9
+  position: relative; // Set to relative
+}
+
+.react-player > div {
+  position: absolute; // Scaling will occur since parent is relative now
+}
+
+.footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(235, 195, 64);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
