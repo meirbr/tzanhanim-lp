@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tzanhanim-lp/static/css/main.709b1010.chunk.css",
-    "main.js": "/tzanhanim-lp/static/js/main.0c1515cb.chunk.js",
-    "main.js.map": "/tzanhanim-lp/static/js/main.0c1515cb.chunk.js.map",
+    "main.js": "/tzanhanim-lp/static/js/main.7b7ed30f.chunk.js",
+    "main.js.map": "/tzanhanim-lp/static/js/main.7b7ed30f.chunk.js.map",
     "runtime-main.js": "/tzanhanim-lp/static/js/runtime-main.4cb50ba9.js",
     "runtime-main.js.map": "/tzanhanim-lp/static/js/runtime-main.4cb50ba9.js.map",
     "static/css/2.0b5305f0.chunk.css": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css",
@@ -39,6 +39,6 @@
     "static/css/2.0b5305f0.chunk.css",
     "static/js/2.d8b3ad55.chunk.js",
     "static/css/main.709b1010.chunk.css",
-    "static/js/main.0c1515cb.chunk.js"
+    "static/js/main.7b7ed30f.chunk.js"
   ]
 }
