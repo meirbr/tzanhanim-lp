@@ -10,6 +10,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel'
 import CarouselItem from 'react-bootstrap/CarouselItem'
 //import { AccordionElement } from "./AccordionElement";
+import twicegood from './assets/img/twicegood.jpg'
+import gaava from './assets/img/gaava.jpg'
 
 
 class Articles extends React.Component {
@@ -39,7 +41,7 @@ class Articles extends React.Component {
     <a href="https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99%D7%9D/%D7%97%D7%98%D7%99%D7%91%D7%AA-%D7%94%D7%A6%D7%A0%D7%97%D7%A0%D7%99%D7%9D/%D7%A4%D7%9C%D7%95%D7%92%D7%94-%D7%97%D7%A8%D7%93%D7%99%D7%AA-%D7%91%D7%A6%D7%A0%D7%97%D7%A0%D7%99%D7%9D-1/">
     <img
       className="d-block w-100"
-      src="http://up419.siz.co.il/up2/tezmnjzzzj2l.jpg"
+      src={gaava}
       alt="First slide"
     />
     <Carousel.Caption>
@@ -71,7 +73,7 @@ class Articles extends React.Component {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="http://up419.siz.co.il/up1/njcmgt03mmm1.jpg"
+      src={twicegood}
       alt="Third slide"
     />
 

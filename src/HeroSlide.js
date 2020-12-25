@@ -14,6 +14,7 @@ import './App.scss';
 import { Jumbotron } from "reactstrap";
 import { Container, Row, Col } from "react-bootstrap"
 
+
 function HeroSlide(){
     
     return(
