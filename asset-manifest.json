@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tzanhanim-lp/static/css/main.709b1010.chunk.css",
-    "main.js": "/tzanhanim-lp/static/js/main.7b7ed30f.chunk.js",
-    "main.js.map": "/tzanhanim-lp/static/js/main.7b7ed30f.chunk.js.map",
+    "main.css": "/tzanhanim-lp/static/css/main.a4c72357.chunk.css",
+    "main.js": "/tzanhanim-lp/static/js/main.7449044a.chunk.js",
+    "main.js.map": "/tzanhanim-lp/static/js/main.7449044a.chunk.js.map",
     "runtime-main.js": "/tzanhanim-lp/static/js/runtime-main.4cb50ba9.js",
     "runtime-main.js.map": "/tzanhanim-lp/static/js/runtime-main.4cb50ba9.js.map",
     "static/css/2.0b5305f0.chunk.css": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css",
-    "static/js/2.d8b3ad55.chunk.js": "/tzanhanim-lp/static/js/2.d8b3ad55.chunk.js",
-    "static/js/2.d8b3ad55.chunk.js.map": "/tzanhanim-lp/static/js/2.d8b3ad55.chunk.js.map",
+    "static/js/2.6ca903fe.chunk.js": "/tzanhanim-lp/static/js/2.6ca903fe.chunk.js",
+    "static/js/2.6ca903fe.chunk.js.map": "/tzanhanim-lp/static/js/2.6ca903fe.chunk.js.map",
     "static/js/3.12d8cd5c.chunk.js": "/tzanhanim-lp/static/js/3.12d8cd5c.chunk.js",
     "static/js/3.12d8cd5c.chunk.js.map": "/tzanhanim-lp/static/js/3.12d8cd5c.chunk.js.map",
     "index.html": "/tzanhanim-lp/index.html",
     "static/css/2.0b5305f0.chunk.css.map": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css.map",
-    "static/css/main.709b1010.chunk.css.map": "/tzanhanim-lp/static/css/main.709b1010.chunk.css.map",
-    "static/js/2.d8b3ad55.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.d8b3ad55.chunk.js.LICENSE.txt",
+    "static/css/main.a4c72357.chunk.css.map": "/tzanhanim-lp/static/css/main.a4c72357.chunk.css.map",
+    "static/js/2.6ca903fe.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.6ca903fe.chunk.js.LICENSE.txt",
     "static/media/about-section-pic.3c47343e.jpg": "/tzanhanim-lp/static/media/about-section-pic.3c47343e.jpg",
     "static/media/index.scss": "/tzanhanim-lp/static/media/bg-1.be1614bd.jpg",
     "static/media/example.d59f6bd9.jpg": "/tzanhanim-lp/static/media/example.d59f6bd9.jpg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.4cb50ba9.js",
     "static/css/2.0b5305f0.chunk.css",
-    "static/js/2.d8b3ad55.chunk.js",
-    "static/css/main.709b1010.chunk.css",
-    "static/js/main.7b7ed30f.chunk.js"
+    "static/js/2.6ca903fe.chunk.js",
+    "static/css/main.a4c72357.chunk.css",
+    "static/js/main.7449044a.chunk.js"
   ]
 }
