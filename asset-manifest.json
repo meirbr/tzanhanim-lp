@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tzanhanim-lp/static/css/main.9593c0b9.chunk.css",
-    "main.js": "/tzanhanim-lp/static/js/main.86d070a7.chunk.js",
-    "main.js.map": "/tzanhanim-lp/static/js/main.86d070a7.chunk.js.map",
-    "runtime-main.js": "/tzanhanim-lp/static/js/runtime-main.4cb50ba9.js",
-    "runtime-main.js.map": "/tzanhanim-lp/static/js/runtime-main.4cb50ba9.js.map",
+    "main.css": "/tzanhanim-lp/static/css/main.daf416ac.chunk.css",
+    "main.js": "/tzanhanim-lp/static/js/main.4e694068.chunk.js",
+    "main.js.map": "/tzanhanim-lp/static/js/main.4e694068.chunk.js.map",
+    "runtime-main.js": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js",
+    "runtime-main.js.map": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js.map",
     "static/css/2.0b5305f0.chunk.css": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css",
-    "static/js/2.56dfbe94.chunk.js": "/tzanhanim-lp/static/js/2.56dfbe94.chunk.js",
-    "static/js/2.56dfbe94.chunk.js.map": "/tzanhanim-lp/static/js/2.56dfbe94.chunk.js.map",
-    "static/js/3.12d8cd5c.chunk.js": "/tzanhanim-lp/static/js/3.12d8cd5c.chunk.js",
-    "static/js/3.12d8cd5c.chunk.js.map": "/tzanhanim-lp/static/js/3.12d8cd5c.chunk.js.map",
+    "static/js/2.1ef4311e.chunk.js": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js",
+    "static/js/2.1ef4311e.chunk.js.map": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js.map",
+    "static/js/3.b41c7979.chunk.js": "/tzanhanim-lp/static/js/3.b41c7979.chunk.js",
+    "static/js/3.b41c7979.chunk.js.map": "/tzanhanim-lp/static/js/3.b41c7979.chunk.js.map",
     "index.html": "/tzanhanim-lp/index.html",
     "static/css/2.0b5305f0.chunk.css.map": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css.map",
-    "static/css/main.9593c0b9.chunk.css.map": "/tzanhanim-lp/static/css/main.9593c0b9.chunk.css.map",
-    "static/js/2.56dfbe94.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.56dfbe94.chunk.js.LICENSE.txt",
+    "static/css/main.daf416ac.chunk.css.map": "/tzanhanim-lp/static/css/main.daf416ac.chunk.css.map",
+    "static/js/2.1ef4311e.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js.LICENSE.txt",
     "static/media/about-section-pic.3c47343e.jpg": "/tzanhanim-lp/static/media/about-section-pic.3c47343e.jpg",
     "static/media/index.scss": "/tzanhanim-lp/static/media/bg-1.be1614bd.jpg",
     "static/media/example.d59f6bd9.jpg": "/tzanhanim-lp/static/media/example.d59f6bd9.jpg",
@@ -40,10 +40,10 @@
     "static/media/twicegood.67df385a.jpg": "/tzanhanim-lp/static/media/twicegood.67df385a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cb50ba9.js",
+    "static/js/runtime-main.8c2ab647.js",
     "static/css/2.0b5305f0.chunk.css",
-    "static/js/2.56dfbe94.chunk.js",
-    "static/css/main.9593c0b9.chunk.css",
-    "static/js/main.86d070a7.chunk.js"
+    "static/js/2.1ef4311e.chunk.js",
+    "static/css/main.daf416ac.chunk.css",
+    "static/js/main.4e694068.chunk.js"
   ]
 }
