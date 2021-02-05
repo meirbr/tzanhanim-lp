@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tzanhanim-lp/static/css/main.a8a66ab7.chunk.css",
-    "main.js": "/tzanhanim-lp/static/js/main.3b387a36.chunk.js",
-    "main.js.map": "/tzanhanim-lp/static/js/main.3b387a36.chunk.js.map",
+    "main.js": "/tzanhanim-lp/static/js/main.4bde15df.chunk.js",
+    "main.js.map": "/tzanhanim-lp/static/js/main.4bde15df.chunk.js.map",
     "runtime-main.js": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js",
     "runtime-main.js.map": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js.map",
     "static/css/2.0b5305f0.chunk.css": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css",
@@ -16,6 +16,7 @@
     "static/js/2.1ef4311e.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js.LICENSE.txt",
     "static/media/about-section-pic.3c47343e.jpg": "/tzanhanim-lp/static/media/about-section-pic.3c47343e.jpg",
     "static/media/index.scss": "/tzanhanim-lp/static/media/bg-1.be1614bd.jpg",
+    "static/media/bucket-hat-sketch.41ce9c87.png": "/tzanhanim-lp/static/media/bucket-hat-sketch.41ce9c87.png",
     "static/media/example.d59f6bd9.jpg": "/tzanhanim-lp/static/media/example.d59f6bd9.jpg",
     "static/media/food.8b8eaf9a.svg": "/tzanhanim-lp/static/media/food.8b8eaf9a.svg",
     "static/media/gaava.51a1e734.jpg": "/tzanhanim-lp/static/media/gaava.51a1e734.jpg",
@@ -44,6 +45,6 @@
     "static/css/2.0b5305f0.chunk.css",
     "static/js/2.1ef4311e.chunk.js",
     "static/css/main.a8a66ab7.chunk.css",
-    "static/js/main.3b387a36.chunk.js"
+    "static/js/main.4bde15df.chunk.js"
   ]
 }
