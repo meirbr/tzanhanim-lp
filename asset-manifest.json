@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tzanhanim-lp/static/css/main.a8a66ab7.chunk.css",
-    "main.js": "/tzanhanim-lp/static/js/main.4bde15df.chunk.js",
-    "main.js.map": "/tzanhanim-lp/static/js/main.4bde15df.chunk.js.map",
+    "main.css": "/tzanhanim-lp/static/css/main.35536c16.chunk.css",
+    "main.js": "/tzanhanim-lp/static/js/main.d6f6ed34.chunk.js",
+    "main.js.map": "/tzanhanim-lp/static/js/main.d6f6ed34.chunk.js.map",
     "runtime-main.js": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js",
     "runtime-main.js.map": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js.map",
     "static/css/2.0b5305f0.chunk.css": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b41c7979.chunk.js.map": "/tzanhanim-lp/static/js/3.b41c7979.chunk.js.map",
     "index.html": "/tzanhanim-lp/index.html",
     "static/css/2.0b5305f0.chunk.css.map": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css.map",
-    "static/css/main.a8a66ab7.chunk.css.map": "/tzanhanim-lp/static/css/main.a8a66ab7.chunk.css.map",
+    "static/css/main.35536c16.chunk.css.map": "/tzanhanim-lp/static/css/main.35536c16.chunk.css.map",
     "static/js/2.1ef4311e.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js.LICENSE.txt",
     "static/media/about-section-pic.3c47343e.jpg": "/tzanhanim-lp/static/media/about-section-pic.3c47343e.jpg",
     "static/media/index.scss": "/tzanhanim-lp/static/media/bg-1.be1614bd.jpg",
@@ -44,7 +44,7 @@
     "static/js/runtime-main.8c2ab647.js",
     "static/css/2.0b5305f0.chunk.css",
     "static/js/2.1ef4311e.chunk.js",
-    "static/css/main.a8a66ab7.chunk.css",
-    "static/js/main.4bde15df.chunk.js"
+    "static/css/main.35536c16.chunk.css",
+    "static/js/main.d6f6ed34.chunk.js"
   ]
 }
