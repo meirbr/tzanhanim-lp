@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tzanhanim-lp/static/css/main.d22067c8.chunk.css",
-    "main.js": "/tzanhanim-lp/static/js/main.d6f6ed34.chunk.js",
-    "main.js.map": "/tzanhanim-lp/static/js/main.d6f6ed34.chunk.js.map",
+    "main.css": "/tzanhanim-lp/static/css/main.8f0aefac.chunk.css",
+    "main.js": "/tzanhanim-lp/static/js/main.2bb20a36.chunk.js",
+    "main.js.map": "/tzanhanim-lp/static/js/main.2bb20a36.chunk.js.map",
     "runtime-main.js": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js",
     "runtime-main.js.map": "/tzanhanim-lp/static/js/runtime-main.8c2ab647.js.map",
     "static/css/2.0b5305f0.chunk.css": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css",
-    "static/js/2.1ef4311e.chunk.js": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js",
-    "static/js/2.1ef4311e.chunk.js.map": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js.map",
+    "static/js/2.fc8a99eb.chunk.js": "/tzanhanim-lp/static/js/2.fc8a99eb.chunk.js",
+    "static/js/2.fc8a99eb.chunk.js.map": "/tzanhanim-lp/static/js/2.fc8a99eb.chunk.js.map",
     "static/js/3.b41c7979.chunk.js": "/tzanhanim-lp/static/js/3.b41c7979.chunk.js",
     "static/js/3.b41c7979.chunk.js.map": "/tzanhanim-lp/static/js/3.b41c7979.chunk.js.map",
     "index.html": "/tzanhanim-lp/index.html",
     "static/css/2.0b5305f0.chunk.css.map": "/tzanhanim-lp/static/css/2.0b5305f0.chunk.css.map",
-    "static/css/main.d22067c8.chunk.css.map": "/tzanhanim-lp/static/css/main.d22067c8.chunk.css.map",
-    "static/js/2.1ef4311e.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.1ef4311e.chunk.js.LICENSE.txt",
+    "static/css/main.8f0aefac.chunk.css.map": "/tzanhanim-lp/static/css/main.8f0aefac.chunk.css.map",
+    "static/js/2.fc8a99eb.chunk.js.LICENSE.txt": "/tzanhanim-lp/static/js/2.fc8a99eb.chunk.js.LICENSE.txt",
     "static/media/about-section-pic.3c47343e.jpg": "/tzanhanim-lp/static/media/about-section-pic.3c47343e.jpg",
     "static/media/index.scss": "/tzanhanim-lp/static/media/bg-1.be1614bd.jpg",
     "static/media/bucket-hat-sketch.41ce9c87.png": "/tzanhanim-lp/static/media/bucket-hat-sketch.41ce9c87.png",
@@ -43,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.8c2ab647.js",
     "static/css/2.0b5305f0.chunk.css",
-    "static/js/2.1ef4311e.chunk.js",
-    "static/css/main.d22067c8.chunk.css",
-    "static/js/main.d6f6ed34.chunk.js"
+    "static/js/2.fc8a99eb.chunk.js",
+    "static/css/main.8f0aefac.chunk.css",
+    "static/js/main.2bb20a36.chunk.js"
   ]
 }
